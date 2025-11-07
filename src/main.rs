@@ -1,1 +1,1 @@
-// https://course.rs/basic/ownership/borrowing.html
+// https://course.rs/basic/compound-type/string-slice.html
